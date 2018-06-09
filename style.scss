@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font:"Comic Sans MS";
+  font: $comicSansMS;
   color: $darkGray;
 }
 
@@ -194,7 +194,7 @@ img {
   margin: 0;
   color: $darkGreen;
   cursor: pointer;
-  font: "Comic Sans MS";
+  font: $comicSansMS;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -213,9 +213,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font: "Comic Sans MS";
-  font-size: 18px;
-
+  font: $commicSansMS;
   @include mobile {
     float: none;
     margin-top: 9px;
