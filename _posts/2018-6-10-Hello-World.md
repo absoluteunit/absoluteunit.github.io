@@ -10,7 +10,6 @@ There were once some people
 Mostly normal people
 Mostly bored, picked up some SUDOKU
 "Shit!"
-"Now i got cheesy eyeballs"
-
+Now don't you wish this ended differently?
 
 
