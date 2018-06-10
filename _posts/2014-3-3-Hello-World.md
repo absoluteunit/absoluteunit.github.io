@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Hecking Wake UP
+title: Smooth Cruise SUDOKU
 ---
 
-Woke yet? Chances are you're NOT...
+Why you should take SUDOKU for a Smooth Cruise into the depths of your anus
+A limerick written in the contemporary style
 
-*A vegan
-*On the _dark_ web
-*Over 87
+There were once some people
+Mostly normal people
+Mostly bored, picked up some SUDOKU
+"Shit!"
+"Now i got cheesy eyeballs"
 
-Does that matter? 
-Heck, does anything matter?
+
+
